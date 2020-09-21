@@ -1,0 +1,75 @@
+
+/run/initialize
+#
+/FastNeutronImaging/Sample/SetSampleShape 1
+/FastNeutronImaging/Sample/SetSampleMaterial 0
+/FastNeutronImaging/Sample/SampleThickness 10. mm
+##
+/FastNeutronImaging/detector/LayerThickness 3 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 4 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 5 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 6 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 7 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 8 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 9 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 10 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 11 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 12 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 13 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 14 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 15 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 16 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 17 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 18 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 19 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 20 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 25 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 35 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 45 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 55 mm
+/run/beamOn 10000000
+#
+/FastNeutronImaging/detector/LayerThickness 30 mm
+/run/beamOn 10000000
